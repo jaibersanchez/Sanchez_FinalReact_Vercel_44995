@@ -1,0 +1,81 @@
+
+.cardProducto {
+    width: 20rem;
+    margin: 4px;
+    margin-left: 50px;
+    background-color: hsl(0, 0, 9);
+}
+
+.cardProductos {
+    margin: 4px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardBody {
+    background-color: rgb(240, 184, 184);
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+.cardBodyDark{
+    background-color: hsl(0, 0%, 33%);
+    margin-top: 3px;
+    text-align: center;
+}
+
+.cartWidget{
+    margin-right: 40px;
+    color: black;
+}
+
+.cartContainer{
+    margin-top: 3%;
+    margin-left:26,5%;
+}
+
+.cardCart{
+    max-width: 640px;
+}
+
+.divButtons button{
+    margin: 4px;
+}
+
+img {
+    margin-top: 3px;
+    width: 334px;
+    height: 399px;
+    padding: 1em;
+    max-width: 100%; 
+}
+
+.itemDetail {
+    max-width: 760px;
+    margin-top: 20px;
+}
+
+.itemDetailBodyDark {
+    background: hsl(0, 0%, 33%);
+    color: rgb(238, 187, 187);
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contForm {
+    margin-top: 20px;
+}
+
+.darkMode{
+    background-color: black;
+    color: rgb(230, 174, 174);
+}
+
+.cantCarrito{
+    position: relative;
+    
+}
+
